@@ -1,0 +1,5 @@
+package com.company;
+
+public enum Hobby {
+    DO_NOTHING, DO_SOMETHING, PLAYING_VIDEOGAMES, COOK, PROGRAMMING, SHITPOSTING
+}
